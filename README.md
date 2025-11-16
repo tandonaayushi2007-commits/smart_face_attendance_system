@@ -1,0 +1,1 @@
+A Smart Face Attendance System that uses real-time face detection and recognition to mark attendance automatically. This project provides a quick, contactless, and efficient solution for classrooms, offices, labs, and events. It eliminates manual errors, prevents proxy attendance, and provides an easy-to-use interface for beginners.
